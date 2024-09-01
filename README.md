@@ -65,7 +65,7 @@ This project contains SQL scripts designed to clean and analyze a dataset of aut
 
 ## 🔗 Explore More
 
-Check out more of my projects and visualizations on [NovyPro](https://project.novypro.com/A4PxRh).
+Check out more of my projects and visualizations on [NovyPro]([https://project.novypro.com/A4PxRh](https://project.novypro.com/lJeUiW)).
 
 ---
 
